@@ -1,2 +1,22 @@
-# shoulder-fracture-model
-DenseNet121-based shoulder fracture classifier (inference only)
+# Shoulder fracture classifier
+
+Inference-only deep learning model for shoulder fracture detection on X-ray images.
+
+This repository provides a ready-to-use interface for model inference.
+Training code is intentionally not included.
+
+---
+
+## Model description
+
+- Architecture: DenseNet-121
+- Task: binary classification (fracture / no fracture)
+- Input: RGB X-ray image, resized to 224×224
+- Output: probability of shoulder fracture
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
