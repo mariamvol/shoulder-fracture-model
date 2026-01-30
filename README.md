@@ -20,3 +20,9 @@ Training code is intentionally not included.
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Examples
+
+- Google Colab quick start: `examples/colab_quickstart.md`
+- Google Colab Python usage (load once): `examples/colab_python_usage.md`
