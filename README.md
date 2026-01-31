@@ -27,6 +27,8 @@ pip install -r requirements.txt
 - Google Colab quick start: `examples/colab_quickstart.md`
 - Google Colab Python usage (load once): `examples/colab_python_usage.md`
 
+--- 
+
 ## License
 MIT License
 
