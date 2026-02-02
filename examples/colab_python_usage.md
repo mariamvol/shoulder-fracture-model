@@ -8,10 +8,10 @@ This example shows how to load the model once and reuse it multiple times in Pyt
 
 ### 1. Setup environment
 ```python
-!git clone https://github.com/mariamvol/shoulder-fracture-model
-%cd shoulder-fracture-model
+!git clone https://github.com/mariamvol/shoulder-xray-multitask-model
+%cd shoulder-xray-multitask-model
 !pip install -r requirements.txt
-!wget https://github.com/mariamvol/shoulder-fracture-model/releases/download/v1.1/shoulder_fracture_densenet121_infer.pt
+!wget https://github.com/mariamvol/shoulder-xray-multitask-model/releases/download/v1.1/shoulder_fracture_densenet121_infer.pt
 ```
 
 ### 2. Load model
